@@ -2,7 +2,7 @@
 
 AI-powered web application that detects potholes in road images using a custom-trained YOLOv8 model, classifies severity, and generates a Road Health Score — built as part of the Edunet Foundation × IBM SkillsBuild × AICTE AI Internship 2026.
 
-🔗 **Live App:** [pothole-hema.streamlit.app](https://pothole-hema.streamlit.app)
+🔗 **Live App:** [pothole-hema.streamlit.app](https://pothole-detection-app.streamlit.app/)
 
 ---
 
@@ -42,16 +42,6 @@ Model: **YOLOv8s**, fine-tuned via transfer learning on a custom 1,455-image pot
 
 `Python` · `YOLOv8 (Ultralytics)` · `OpenCV` · `Streamlit` · `NumPy` · `Pillow` · `Google Colab`
 
----
-
-## 🚀 Run Locally
-
-```bash
-git clone https://github.com/your-username/pothole-detection-app.git
-cd pothole-detection-app
-pip install -r requirements.txt
-streamlit run app.py
-```
 
 ---
 
@@ -60,17 +50,22 @@ streamlit run app.py
 pothole-detection-app/
 
 ├── app.py              # Streamlit application
+
 ├── best.pt              # Trained YOLOv8 model weights
+
 ├── requirements.txt     # Python dependencies
+
 ├── .streamlit/
+
 │   └── config.toml      # Dark theme configuration
+
 └── README.md
 
 ---
 
 ## 👩‍💻 Author
 
-**Hema**
-Electronics and Communication Engineering (ECE), First Year
+HEMAVARSHINI M
+Electronics and Communication Engineering (ECE)
 RMD Engineering College
 Edunet Foundation × IBM SkillsBuild × AICTE AI Internship 2026
