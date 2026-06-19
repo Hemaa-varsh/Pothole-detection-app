@@ -65,7 +65,7 @@ pothole-detection-app/
 
 ## 👩‍💻 Author
 
-HEMAVARSHINI M
+**HEMAVARSHINI M**  
 Electronics and Communication Engineering (ECE)
 RMD Engineering College
 Edunet Foundation × IBM SkillsBuild × AICTE AI Internship 2026
